@@ -23,6 +23,9 @@ body{
     font-size: .8rem;
     border-radius: 10px;
 }
+body > h1,p{
+    background-color: hsl(0, 0%, 12%);
+}
 .subhead{
     color: hsl(75, 94%, 57%);
     font-weight: bold;
